@@ -58,7 +58,7 @@ Ein [Triplestore](#Triplestore), bzw. eine Graph-Datenbank. Es bietet eine Schni
 
 ## BLOB
 [ id=blob ]
-Serialisierte Daten, die dadurch wie ein langer Text abgespeichert und gegenenfalls deserialisiert, deren Einzelwerte allerdings nicht direkt abgefragt werden können.
+Serialisierte Daten, die dadurch wie ein langer Text abgespeichert und gegebenenfalls deserialisiert sind, deren Einzelwerte allerdings nicht direkt abgefragt werden können.
 
 
 ## BMBF
@@ -165,7 +165,7 @@ Möglichkeit kollaborativ an Texten zu arbeiten. HackMD unterstützt MarkDown.
 
 ## Industrielle Projekte
 [ id=industrial_projects ]
-Projekte und resultierende Konsortien aus der 2. ergänzenden [BMBF](#BMBF) Ausschreibung MaterialDigital im Rahmen der Innovations-Plattform MaterialDigital. Sie sollen primär in Zusammenarbeit mit der [Innovations-Plattform](#Plattform-MaterialDigital) Inhalte und Bausteine für die PMD erarbeiten
+Projekte und resultierende Konsortien aus der 2. ergänzenden [BMBF](#BMBF) Ausschreibung MaterialDigital im Rahmen der Innovations-Plattform MaterialDigital. Sie sollen primär in Zusammenarbeit mit der [Innovations-Plattform](#Plattform-MaterialDigital) Inhalte und Bausteine für die PMD erarbeiten.
 
 ## Inferenz / Inference
 [ id=inference ]
@@ -185,7 +185,7 @@ Interoperabilität beschreibt Daten, die so vorliegen, dass sie ausgetauscht, in
 
 ## JSON
 [ id=json ]
-Java Script Object Notation, Eine in JavaScript implementierte, standardisierte Objektbeschreibungssyntax, die zur repräsentation von [BLOBs](#BLOB) genutzt werden kann.
+Java Script Object Notation. Eine in JavaScript implementierte, standardisierte Objektbeschreibungssyntax, die zur repräsentation von [BLOBs](#BLOB) genutzt werden kann.
 
 ## Jupyter
 [ id=jupyter ]
@@ -202,7 +202,7 @@ Das Jupyter Notebook ist eine Open-Source-Webanwendung, mit der Dokumente erstel
 
 ## Klasse
 [ id=class ]
-s. "[Konzept](#Konzept)"
+s. "[Konzept](#Konzept)".
 Eine Klasse bietet einen Abstraktionsmechanismus zur Gruppierung von Ressourcen mit ähnlichen Merkmalen. Jede Klasse ist mit einer Gruppe von Individuen verbunden, die als Klassenerweiterung bezeichnet wird. Die Individuen in der Klassenerweiterung werden als [Instanzen](#Instanz) der Klasse bezeichnet. Eine Klasse hat eine intensionale Bedeutung, in diesem Fall das zugrunde liegende Konzept.
 
 
@@ -234,7 +234,7 @@ Konsortiums](#Plattformverantwortliches-Konsortium--Plattformtr%C3%A4ger), repr�
 
 ## Linked Data
 [ id=linked_data ]
-Möglichkeit, Relationen zwischen direkt zusammenhängenden oder synonymen semantischen Konzepten aufzuzeigen. Linked Data ermöglicht so eine Suche in und Verknüpfung von komplexen Datenstrukturen.
+Möglichkeit Relationen zwischen direkt zusammenhängenden oder synonymen semantischen Konzepten aufzuzeigen. Linked Data ermöglicht so eine Suche in und Verknüpfung von komplexen Datenstrukturen.
 
 ## Literal
 [ id=literal ]
@@ -250,7 +250,7 @@ Der Plattform ist ein vom [BMBF](#BMBF) einberufener, industriell besetzter Mana
 
 ## Mapping
 [ id=mapping ]
-Beim Mapping werden aus verschiedenen Datenmodellen Datelemenete aufeinander abgebildet.
+Beim Mapping werden aus verschiedenen Datenmodellen Datenelemente aufeinander abgebildet.
 
 ## Metadaten
 [ id=metadata ]
@@ -291,7 +291,7 @@ Eine Ontologie enthält dabei inhaltliche Verknüpfungen, entweder deskriptiv od
 
 ## OWL
 [ id=owl ]
-OWL, the Web Ontology language ist eine Spezifikation des [W3C](#Semantic-Web).Es ist eine Auszeichnungssprache für die Entwicklung und Veröffentlichung von [Ontologien](#Ontologie). Ihre Dokumentation finden Sie [hier](https://www.w3.org/TR/owl-ref/#Property).
+OWL, the Web Ontology language ist eine Spezifikation des [W3C](#Semantic-Web). Es ist eine Auszeichnungssprache für die Entwicklung und Veröffentlichung von [Ontologien](#Ontologie). Ihre Dokumentation finden Sie [hier](https://www.w3.org/TR/owl-ref/#Property).
 
 ---
 
@@ -462,7 +462,7 @@ s.[OWL](#OWL)
 ## Wiederverwendbarkeit
 [ id=reusable ]
 Wiederverwendbar sind Daten.
-Dieser Begriff ist Teil des [FAIR](#FAIR) Prinzips
+Dieser Begriff ist Teil des [FAIR](#FAIR) Prinzips.
 
 ## Wikibase
 [ id=wikibase ]
