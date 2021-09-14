@@ -15,7 +15,7 @@ jobs:
         pip install -r requirements.txt
         python glossary.py
         git branch -a
-	git checkout origin/json
+        git checkout origin/json
         mv -v glossary.json assets
         git add assets
 	git status
