@@ -1,0 +1,13 @@
+name: Deploy to GitHub pages
+on:
+  push:
+    branches: [ main ]
+jobs:
+  deploy_json:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: build
+      run: ./deploy_json.sh
