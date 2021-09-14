@@ -12,7 +12,10 @@ jobs:
     - uses: actions/checkout@v2
     - name: build
       run: |
-        ls -l
         pip install -r requirements.txt
         python glossary.py
-        cat glossary.json
+        git checkout json
+        mv glossary.json assets
+	git add assets
+        git commit -m "Update glossary.json"
+        git push
