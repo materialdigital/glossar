@@ -18,6 +18,8 @@ jobs:
         python glossary.py
         git checkout json
         mv -v glossary.json assets
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
         git add assets
         git commit -m "Update glossary.json"
         git push
