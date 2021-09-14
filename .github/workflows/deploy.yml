@@ -18,6 +18,5 @@ jobs:
         git checkout origin/json
         mv -v glossary.json assets
         git add assets
-	git status
         git commit -m "Update glossary.json"
         git push
