@@ -4,22 +4,13 @@ on:
     # this is the branch where you develop your site
     # as discussed in the publishing sources section
     # this can change if you are using an user/organization repo
-    branches: [ gh_actions ]
+    branches: [  ]
 jobs:
-  build:
+  deploy_json:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
       with:
         fetch-depth: 0
     - name: build
-      run: |
-        pip install -r requirements.txt
-        python glossary.py
-        git checkout json
-        mv -v glossary.json assets
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add assets
-        git commit -m "Update glossary.json"
-        git push
+      run: ./deploy_json.sh
