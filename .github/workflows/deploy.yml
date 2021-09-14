@@ -14,8 +14,9 @@ jobs:
       run: |
         pip install -r requirements.txt
         python glossary.py
-        git checkout json
-        mv glossary.json assets
+	git checkout json
+        mv -v glossary.json assets
         git add assets
+	git status
         git commit -m "Update glossary.json"
         git push
