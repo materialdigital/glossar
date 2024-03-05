@@ -29,7 +29,7 @@ class Term(dict):
 
 
 class Glossary(dict):
-    DEF_RE = re.compile(r"^[ ]{0,3}\[[ ]*id=([^\]]*)[ ]*\]")
+    DEF_RE = re.compile(r"^[ ]{0,3}\[[ ]*id=([^]]*)[ ]*]")
     localized_glossaries = {}
 
     def __init__(self, json_file=None):
@@ -88,7 +88,7 @@ class Glossary(dict):
     @staticmethod
     def from_markdown(basedir="."):
         g = Glossary()
-        for lang, fname in {'de': 'Glossar.md', 'en': 'Glossary.md'}.items():
+        for lang, fname in {"de": "Glossar.md", "en": "Glossary.md"}.items():
             g.parse_markdown(join(basedir, fname), lang=lang)
         return g
 
