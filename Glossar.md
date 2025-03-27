@@ -23,9 +23,9 @@ In einer [Ontologie](#Ontologie) repräsentiert die A-Box den Zustand der modell
 [ id=agile_management ]
 Agiles Management bietet eine Methodik, um flexibel, pro-aktiv, antizipativ und initiativ zu agieren um nötige Veränderungen einzuführen. Typische Elemente von agilem Management sind Rollen, [Sprints](#Sprint), und [User Stories](#User-Story)
 
-## Agiler Manager (AM)
+## Agile:r Manager:in (AM)
 [ id=agile_manager ]
-Eine Rolle im [agilen Management](#Agiles-Management). Der/die agile\*r Manager\*in unterstützt das Team in einem [agilen Management](#Agiles-Management) bei der Kommunikation, organisiert Meetings, sorgt für die Einhaltung von Rollen und Form, behält den Überblick über das Team, kommuniziert Probleme an den/die [Product Ownerin](#Product-Owner), bereitet die Agenda vor und sorgt für eine ordentliche Dokumentation des Teams.
+Eine Rolle im [agilen Management](#Agiles-Management). Der/die agile:r Manager:in unterstützt das Team in einem [agilen Management](#Agiles-Management) bei der Kommunikation, organisiert Meetings, sorgt für die Einhaltung von Rollen und Form, behält den Überblick über das Team, kommuniziert Probleme an den/die [Product Owner:in](#Product-Owner), bereitet die Agenda vor und sorgt für eine ordentliche Dokumentation des Teams.
 
 ## Akademische Projekte
 [ id=academic_projects ]
@@ -103,9 +103,9 @@ Definition in einem [agilen Framework](#Agiles-Management), wann eine [User Stor
 [ id=docker_container ]
 Unter einem Docker Container versteht man eine Standard-Software-Einheit, die den Code und alle seine Abhängigkeiten verpackt, sodass die Anwendung schnell und zuverlässig von einer Computerumgebung zur anderen ausgeführt werden kann.
 
-## Domänenexperten / Community
+## Domänenfachkräfte / Community
 [ id=domain_experts/community ]
-Wissenschaftliche Expertinnen und Experten, die im Rahmen von [Use Cases](#Use-Cases) ihr Fachgebiet innerhalb der PMD (weiter-)entwickeln. Die wissenschaftliche Community als Ganzes prägt dabei die PMD sowohl durch ihren Beitrag als auch durch Partizipationsmethoden. Die Auswahl der in der PMD repräsentierten wissenschaftlichen Teilbereiche basiert auf den Beiträgen der Domänenexperten.
+Wissenschaftliche Expertinnen und Experten, die im Rahmen von [Use Cases](#Use-Cases) ihr Fachgebiet innerhalb der PMD (weiter-)entwickeln. Die wissenschaftliche Community als Ganzes prägt dabei die PMD sowohl durch ihren Beitrag als auch durch Partizipationsmethoden. Die Auswahl der in der PMD repräsentierten wissenschaftlichen Teilbereiche basiert auf den Beiträgen der Domänenfachkräften.
 
 
 
@@ -148,8 +148,8 @@ Die Governance bildet die gemeinsame Lenkungsstruktur für beteiligte Projekte u
 
 ## GUI
 [ id=gui ]
-GUI steht für graphical user interface und bezeichnet eine Benutzerschnittstelle eines Computers mit der 
-eingabe (bspw. Maus oder Gesten). Mittels grafischer Symbole und Steuerelemente macht es Anwendungssoftware bedienbar. Die GUI ersetzt dadurch Programmsteuerung durch die [Kommandozeile](#Kommandozeile) und macht Software intuitiv und für Laien bedienbar.
+GUI steht für Graphical User Interface und bezeichnet eine Benutzer:innenschnittstelle eines Computers mit der 
+eingabe (bspw. Maus oder Gesten). Mittels grafischer Symbole und Steuerelemente macht es Anwendungssoftware bedienbar. Die GUI ersetzt dadurch Programmsteuerung durch die [Kommandozeile](#Kommandozeile) und macht Software intuitiv und für Fachfremde bedienbar.
 
 ---
 
@@ -230,7 +230,7 @@ Kuration oder Kurationsprozess bei der PMD beschreibt die fortlaufende Anpassung
 ## Lenkungskreis
 [ id=steering_committee ]
 Das geschäftsführende Plenum des [plattformverantwortlichen 
-Konsortiums](#Plattformverantwortliches-Konsortium--Plattformtr%C3%A4ger), repräsentiert durch einen Sprecher und eine/n weitere/n Vertreter/in pro geförderter Organisation.
+Konsortiums](#Plattformverantwortliches-Konsortium--Plattformtr%C3%A4ger), repräsentiert durch eine:n Sprecher:in und eine:n weitere:n Vertreter:in pro geförderter Organisation.
 
 ## Linked Data
 [ id=linked_data ]
@@ -262,7 +262,7 @@ Meilensteine umschreiben die übergeordneten Ziele im Projektplan.
 
 ## MSE
 [ id=mse ]
-MSE ist die Abkürzung für Material Science Experts und umfasst unsere materialwissenschaftlichen Experten.
+MSE ist die Abkürzung für Material Science Experts und umfasst unsere materialwissenschaftlichen Expert:innen.
 
 ---
 
@@ -323,16 +323,16 @@ Ein Produkt ist etwas, das durch einen Prozess erstellt wird und einem Markt ein
 
 ## Product Owner
 [ id=product_owner ]
-Der Product Owner (PO) ist verantwortlich für den Wortlaut und die Umsetzung der [User Stories](#User-Story). Schreibt User Stories, vertritt Nutzerinteressen, definiert Anforderungen (nicht Lösungen), übergibt Verantwortung für Machbarkeit an das Team, definiert [Definition of Done](#Definition-of-Done) 
+Der/die Product Owner (PO) ist verantwortlich für den Wortlaut und die Umsetzung der [User Stories](#User-Story). Die diese Funktion ausführende Person schreibt die User Stories, vertritt Nutzerinteressen, definiert Anforderungen (nicht Lösungen), übergibt Verantwortung für Machbarkeit an das Team, definiert [Definition of Done](#Definition-of-Done) 
 
-## Projektsprecher/in
+## Projektsprechende
 [ id=project_spokesperson ]
-Gewählte\*r Vertreter\*in eines geförderten Konsortiums eines [akademischen](#Akademische-Projekte) oder [industriellen Projektes](#Industrielle-Projekte), der/die das Konsortium gegenüber dem [PMD-Lenkungskreis](#Lenkungskreis) vertritt.
+Gewählte Vertretende eines geförderten Konsortiums eines [akademischen](#Akademische-Projekte) oder [industriellen Projektes](#Industrielle-Projekte), die das Konsortium gegenüber dem [PMD-Lenkungskreis](#Lenkungskreis) vertreten.
 
 ## Projektträger
 [ id=project_sponsor ]
 Projektträger werden vom [BMBF](#BMBF) eingesetzt und setzen die Projekte des Ministeriums fachlich und organisatorisch um. 
-Sie beraten Förderinteressenten, Antragssteller und Zuwendungsempfänger und sind für die administrative Bearbeitung und fachliche Begleitung der Projekte in allen Phasen zuständig.
+Sie beraten Förderinteressenten, Antragsstellende und Zuwendungsempfangende und sind für die administrative Bearbeitung und fachliche Begleitung der Projekte in allen Phasen zuständig.
 
 ## Property
 [ id=property ]
@@ -372,7 +372,7 @@ Das W3C-konforme [Framework](#Framework), das eine eindeutige Ressourcenbeschrei
 
 ## SimStack
 [ id=simstack ]
-Die [Workflowumgebung](#Workflowumgebung) SimStack ermöglicht die effizente Gestaltung und Anpassung komplexer Workflows („rapid prototyping“) mit Softwaremodulen verschiedener Anbieter per Drag-and-Drop, wobei nur für den jeweiligen [Use Case](#Use-Cases) relevante Settings exponiert werden. Zusammen mit der automatisierten Ausführung der Workflows auf Großrechnern wird hierdurch die Komplexität für den Endnutzer und die benötigte Expertise minimiert. Dies ermöglicht den Transfer komplexer, wissenschaftlicher Multiskalenmethoden in die Industrie. 
+Die [Workflowumgebung](#Workflowumgebung) SimStack ermöglicht die effizente Gestaltung und Anpassung komplexer Workflows („rapid prototyping“) mit Softwaremodulen verschiedener Anbieter per Drag-and-Drop, wobei nur für den jeweiligen [Use Case](#Use-Cases) relevante Settings exponiert werden. Zusammen mit der automatisierten Ausführung der Workflows auf Großrechnern wird hierdurch die Komplexität für Endnutzende und die benötigte Expertise minimiert. Dies ermöglicht den Transfer komplexer, wissenschaftlicher Multiskalenmethoden in die Industrie. 
 
 ## Simulationsprotokoll
 [ id=simulation_log ]
@@ -441,7 +441,7 @@ Anwendungsfälle, die auf Basis der Plattform implementiert, im Rahmen geförder
 
 ## User Story
 [ id=user_story ]
-Eine User Story ist die kleinste Einheit aus der Sicht eines Anwenders in einem [agilen Framework](#Agiles-Management). Sie definiert die gewünschte Funktionalität, die sich der Benutzer vorstellt, um genau einen seiner [Pain Points](#Pain-Point) zu lösen
+Eine User Story ist die kleinste Einheit aus der Sicht von Anwendenden in einem [agilen Framework](#Agiles-Management). Sie definiert die gewünschte Funktionalität, die sich Nutzende vorstellen, um genau einen [Pain Point](#Pain-Point) zu lösen
 
 ---
 
