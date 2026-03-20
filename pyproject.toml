@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pmd-glossary"
+version = "1.0.0"
+description = "MaterialDigital Glossary"
+authors = [{name = "MaterialDigital"}]
+dependencies = []
+classifiers = [
+    "Programming Language :: Python :: 3",
+]
+
+[project.urls]
+Repository = "https://github.com/materialdigital/glossar.git"
